@@ -1,0 +1,22 @@
+{
+  "name": "nrcdata",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "2.8.5",
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "^9.4.4",
+    "puppeteer": "^5.2.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9"
+  }
+}
